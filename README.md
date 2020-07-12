@@ -1,4 +1,4 @@
-# IPPanel SMS api SDK
+# FarazSMS api SDK
 
 This repository contains open source Python client for `ippanel` api. Documentation can be found at: <https://farazsms.com/webservice/>.
 
